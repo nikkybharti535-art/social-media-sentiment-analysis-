@@ -90,4 +90,4 @@ Social media generates massive volumes of unstructured text every day. This proj
 
 ## Author
 
-**[Your Name]** — AICTE | IBM SkillsBuild Data Analytics with AI Internship 2026 (BharatCares)
+**[Nikky Bharti]** — AICTE | IBM SkillsBuild Data Analytics with AI Internship 2026 (BharatCares)
